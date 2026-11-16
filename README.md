@@ -2,7 +2,7 @@
 
 Web Geliştirme – JavaScript proje ödevi için hazırlanmış TODO uygulaması.
 
-**Canlı demo:** <netlify-adresi>
+**Canlı demo:** <https://silver-toffee-4f0f57.netlify.app>
 
 ## Özellikler
 
