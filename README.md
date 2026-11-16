@@ -36,7 +36,7 @@ npm run build    # üretim derlemesi (dist/)
 
 ## Ekran Görüntüsü
 
-![Uygulama ekran görüntüsü](docs/screenshots/ekran-goruntusu.png)
+![Uygulama ekran görüntüsü](docs/screenshots/Ekran görüntüsü 2026-11-16 150334)
 
 ## Yayına Alma (Netlify)
 
